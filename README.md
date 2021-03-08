@@ -37,7 +37,7 @@
 
 - #### 노트
 
-1. day01- [개발환경 구축](./note/day02.ipynb)
+1. day01- [개발환경 구축](./note/day01.ipynb)
 2. day02-
 3. day03- 
 4. day04-
