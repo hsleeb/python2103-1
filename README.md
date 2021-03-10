@@ -32,7 +32,7 @@
 - #### 온라인 자료
 
 1. 주교재 : [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
-2. [Python Docuements(English)](https://docs.python.org/3/)
+2. [Python Documents(English)](https://docs.python.org/3/)
 3. [파이썬 설명서(한글)](https://docs.python.org/ko/3.9/contents.html)
 
 - #### 노트
