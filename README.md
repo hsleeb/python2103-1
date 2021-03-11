@@ -37,9 +37,9 @@
 
 - #### 노트
 
-1. day01- [개발환경 구축](./note/day01.ipynb)
-2. day02- [파이썬 기본 문법](./note/day02.ipynb)
-3. day03- 
+1. day01- [개발환경 구축](./note/day01.md)
+2. day02- [파이썬 기본 문법](./note/day02.md)
+3. day03- [기본자료구조와 제어문](./note/day03.md)
 4. day04-
 5. day05-
 6. day06-
