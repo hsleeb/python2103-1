@@ -39,8 +39,8 @@
 
 1. day01- [개발환경 구축](./note/day01.md)
 2. day02- [파이썬 기본 문법](./note/day02.md)
-3. day03- [기본자료구조와 제어문](./note/day03.md)
-4. day04-
+3. day03- [제어문](./note/day03.md)
+4. day04- [기본자료구조 / 함수](.note/day04.md)
 5. day05-
 6. day06-
 7. day07-
